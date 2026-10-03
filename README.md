@@ -615,8 +615,7 @@ Please provide appropriate citation or acknowledgment when using course material
 
 **Dr. Behrooz Taheri**
 
-Electrical Engineering  
-Power and Energy Systems
+behrooztaheri1372@gmail.com
 
 ---
 
