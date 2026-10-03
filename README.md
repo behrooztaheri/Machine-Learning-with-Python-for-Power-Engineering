@@ -461,48 +461,6 @@ Students are encouraged to apply the methods introduced in the course to researc
 
 ---
 
-# Repository Structure
-
-A typical repository structure is:
-
-```text
-Machine-Learning-Power-Engineering/
-│
-├── 01_Python_Basics/
-│
-├── 02_NumPy/
-│
-├── 03_Pandas/
-│
-├── 04_Visualization/
-│
-├── 05_SciPy/
-│
-├── 06_Machine_Learning/
-│   ├── Regression/
-│   ├── Classification/
-│   └── Clustering/
-│
-├── 07_Deep_Learning/
-│
-├── 08_Optimization/
-│
-├── 09_Power_System_Libraries/
-│
-├── 10_SimPy_RealTime/
-│
-├── 11_WolframClient/
-│
-├── 12_Signal_Processing/
-│
-├── Datasets/
-│
-├── Projects/
-│
-└── README.md
-```
-
----
 
 # Installation
 
