@@ -1,0 +1,13 @@
+{
+  "model": "Decision Tree Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 4.07,
+    "MAE (MW)": 3.12,
+    "R2": 0.9428,
+    "Linear RMSE (MW)": 4.5,
+    "Best depth": 7,
+    "Leaves": 127
+  }
+}

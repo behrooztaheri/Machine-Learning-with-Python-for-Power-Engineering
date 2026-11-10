@@ -1,0 +1,12 @@
+{
+  "model": "Lasso Regression",
+  "dataset": "Superconductivity (UCI)",
+  "n_samples": 21263,
+  "metrics": {
+    "RMSE (K)": 18.57,
+    "R2": 0.7004,
+    "OLS RMSE (K)": 19.12,
+    "Best alpha": 0.0242,
+    "Features kept": 68
+  }
+}

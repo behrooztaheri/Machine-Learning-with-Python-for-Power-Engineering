@@ -1,0 +1,11 @@
+{
+  "model": "Ridge Regression",
+  "dataset": "Superconductivity (UCI)",
+  "n_samples": 21263,
+  "metrics": {
+    "RMSE (K)": 18.53,
+    "R2": 0.7018,
+    "OLS RMSE (K)": 19.12,
+    "Best alpha": 1.194
+  }
+}

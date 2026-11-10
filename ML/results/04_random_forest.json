@@ -1,0 +1,11 @@
+{
+  "model": "Random Forest",
+  "dataset": "Electrical Grid Stability (UCI)",
+  "n_samples": 10000,
+  "metrics": {
+    "Accuracy": 0.9265,
+    "F1": 0.9433,
+    "OOB accuracy": 0.918,
+    "Single tree acc": 0.8495
+  }
+}

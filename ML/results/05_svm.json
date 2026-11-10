@@ -1,0 +1,11 @@
+{
+  "model": "SVM (RBF kernel)",
+  "dataset": "Optical Digits (UCI)",
+  "n_samples": 5620,
+  "metrics": {
+    "RBF accuracy": 0.9705,
+    "Linear accuracy": 0.9594,
+    "Best C": 10,
+    "Best gamma": 0.01
+  }
+}

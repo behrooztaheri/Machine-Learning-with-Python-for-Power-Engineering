@@ -1,0 +1,11 @@
+{
+  "model": "Linear Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "MAE (MW)": 3.6,
+    "RMSE (MW)": 4.5,
+    "R2": 0.9301,
+    "CV R2": 0.9282
+  }
+}

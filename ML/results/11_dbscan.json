@@ -1,0 +1,10 @@
+{
+  "model": "DBSCAN",
+  "dataset": "Wholesale Customers (UCI)",
+  "n_samples": 440,
+  "metrics": {
+    "eps": 1.2,
+    "Clusters": 1,
+    "Noise share": 0.193
+  }
+}

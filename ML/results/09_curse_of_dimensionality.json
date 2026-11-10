@@ -1,0 +1,18 @@
+{
+  "model": "Curse of Dimensionality",
+  "dataset": "Banknote Authentication (UCI)",
+  "n_samples": 1372,
+  "metrics": {
+    "KNN (4 features)": 1.0,
+    "KNN (204 features)": 0.553,
+    "PCA + KNN": 0.636,
+    "SelectKBest + KNN": 0.905,
+    "L1 Logistic": 0.971,
+    "Contrast 4D": 25.14,
+    "Contrast 204D": 0.28,
+    "Samples per feature": 4.7,
+    "Random forest (204)": 0.915,
+    "Edge d=10": 0.79,
+    "Edge d=100": 0.98
+  }
+}

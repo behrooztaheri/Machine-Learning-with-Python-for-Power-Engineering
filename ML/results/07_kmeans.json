@@ -1,0 +1,11 @@
+{
+  "model": "K-Means",
+  "dataset": "Wholesale Customers (UCI)",
+  "n_samples": 440,
+  "metrics": {
+    "Best k": 2,
+    "Silhouette": 0.29,
+    "Davies-Bouldin": 1.352,
+    "WCSS": 1844.1
+  }
+}

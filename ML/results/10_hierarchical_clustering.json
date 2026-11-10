@@ -1,0 +1,10 @@
+{
+  "model": "Hierarchical Clustering",
+  "dataset": "Wholesale Customers (UCI)",
+  "n_samples": 440,
+  "metrics": {
+    "Best k": 2,
+    "Silhouette": 0.258,
+    "Davies-Bouldin": 1.6
+  }
+}

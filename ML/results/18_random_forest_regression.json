@@ -1,0 +1,13 @@
+{
+  "model": "Random Forest Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 3.1,
+    "MAE (MW)": 2.21,
+    "R2": 0.967,
+    "Linear RMSE (MW)": 4.5,
+    "OOB RMSE (MW)": 3.26,
+    "Trees": 300
+  }
+}

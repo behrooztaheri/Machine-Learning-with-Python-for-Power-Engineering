@@ -1,0 +1,14 @@
+{
+  "model": "Support Vector Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 4.09,
+    "MAE (MW)": 3.16,
+    "R2": 0.9424,
+    "Linear RMSE (MW)": 4.5,
+    "Best C": 10,
+    "Best gamma": 0.05,
+    "Support vectors": 5112
+  }
+}

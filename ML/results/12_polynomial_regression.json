@@ -1,0 +1,13 @@
+{
+  "model": "Polynomial Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 4.23,
+    "MAE (MW)": 3.09,
+    "R2": 0.9382,
+    "Linear RMSE (MW)": 4.5,
+    "Best degree": 6,
+    "Terms": 209
+  }
+}

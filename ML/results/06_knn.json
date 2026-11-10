@@ -1,0 +1,11 @@
+{
+  "model": "K-Nearest Neighbors",
+  "dataset": "Seeds (UCI)",
+  "n_samples": 210,
+  "metrics": {
+    "Accuracy": 0.9057,
+    "Best k": 1,
+    "CV acc (scaled)": 0.9335,
+    "CV acc (not scaled)": 0.8968
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "K-Nearest Neighbors Regression",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 3.59,
+    "MAE (MW)": 2.57,
+    "R2": 0.9556,
+    "Linear RMSE (MW)": 4.5,
+    "Best k": 7
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "model": "PCA + KNN",
+  "dataset": "Optical Digits (UCI)",
+  "n_samples": 5620,
+  "metrics": {
+    "Components for 95%": 41,
+    "Accuracy (all 64)": 0.9649,
+    "Accuracy (95% var)": 0.9622,
+    "Accuracy (2 comp.)": 0.5103
+  }
+}

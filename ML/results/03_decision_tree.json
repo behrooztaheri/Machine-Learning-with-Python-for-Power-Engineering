@@ -1,0 +1,11 @@
+{
+  "model": "Decision Tree",
+  "dataset": "Electrical Grid Stability (UCI)",
+  "n_samples": 10000,
+  "metrics": {
+    "Accuracy": 0.8575,
+    "F1": 0.8891,
+    "Best depth": 9,
+    "Leaves": 325
+  }
+}

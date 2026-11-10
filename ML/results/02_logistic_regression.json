@@ -1,0 +1,12 @@
+{
+  "model": "Logistic Regression",
+  "dataset": "Breast Cancer Wisconsin (UCI)",
+  "n_samples": 569,
+  "metrics": {
+    "Accuracy": 0.965,
+    "Precision": 0.98,
+    "Recall": 0.9245,
+    "F1": 0.9515,
+    "ROC AUC": 0.9962
+  }
+}
