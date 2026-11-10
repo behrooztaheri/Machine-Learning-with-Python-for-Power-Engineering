@@ -1,0 +1,13 @@
+{
+  "model": "Transformer",
+  "dataset": "Household Electric Power (UCI)",
+  "n_samples": 34327,
+  "metrics": {
+    "RMSE (kW)": 0.477,
+    "MAE (kW)": 0.3312,
+    "R2": 0.5451,
+    "Baseline RMSE (last hour)": 0.5814,
+    "Parameters": 68929,
+    "Train time (s)": 310
+  }
+}

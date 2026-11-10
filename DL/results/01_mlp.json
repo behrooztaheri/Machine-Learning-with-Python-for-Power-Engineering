@@ -1,0 +1,11 @@
+{
+  "model": "MLP",
+  "dataset": "Fashion-MNIST",
+  "n_samples": 70000,
+  "metrics": {
+    "Test accuracy": 0.8847,
+    "Parameters": 235146,
+    "Train time (s)": 178,
+    "Epochs": 12
+  }
+}

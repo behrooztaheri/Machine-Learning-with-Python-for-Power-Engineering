@@ -1,0 +1,11 @@
+{
+  "model": "CNN",
+  "dataset": "Fashion-MNIST",
+  "n_samples": 70000,
+  "metrics": {
+    "Test accuracy": 0.9187,
+    "Parameters": 421834,
+    "Train time (s)": 718,
+    "Epochs": 8
+  }
+}
