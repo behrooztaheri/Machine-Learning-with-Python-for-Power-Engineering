@@ -1,0 +1,12 @@
+{
+  "model": "Mamdani fuzzy system",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 5.95,
+    "MAE (MW)": 4.64,
+    "R2": 0.8779,
+    "Rules": 9,
+    "Fan example (%)": 79.2
+  }
+}

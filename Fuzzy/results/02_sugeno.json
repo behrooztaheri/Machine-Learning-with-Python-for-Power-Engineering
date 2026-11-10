@@ -1,0 +1,13 @@
+{
+  "model": "Sugeno (TSK) fuzzy system",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 4.43,
+    "MAE (MW)": 3.48,
+    "R2": 0.9324,
+    "RMSE zero-order (MW)": 4.75,
+    "Rules": 9,
+    "Parameters": 27
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": "ANFIS",
+  "dataset": "Combined Cycle Power Plant (UCI)",
+  "n_samples": 9568,
+  "metrics": {
+    "RMSE (MW)": 3.96,
+    "MAE (MW)": 3.06,
+    "R2": 0.9461,
+    "Linear RMSE (MW)": 4.5,
+    "Rules": 16,
+    "Parameters": 96,
+    "Train time (s)": 32
+  }
+}
